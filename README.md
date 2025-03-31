@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @robalvess
-- 👀 I’m interested in Data Science, physics and programming!
-- 🌱 I’m currently learning everything there's to learn about programming languages and also learning a bit abou E&m.
+- 👋 Hi, I am @robalvess
+- 👀 I am interested in Data Science, physics and programming!
+- 🌱 I am currently interested in Direct and Inderect detection of Dark Matter and Beyond the Standard Model Physics.
 - 📫 You can always reach me at: a.joseroberto1999@gmail.com
 
